@@ -1,4 +1,4 @@
 /* eslint-disable prettier/prettier */
 export const jwtConstants = {
-  secret: 'I1s9a9C5oesd47rd5f',
+  secret: 'Um4M3n24g3m2ecr3t4',
 };
